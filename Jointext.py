@@ -4,4 +4,4 @@ def sentence_capital(sentence):
 
     
 complete_sentence=input('Dame una frase:')
-sentence_capital(complete_sentence)
+print(sentence_capital(complete_sentence))
